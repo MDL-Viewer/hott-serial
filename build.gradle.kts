@@ -20,6 +20,7 @@ repositories {
 }
 
 dependencies {
+    implementation("de.treichels.hott:hott-util:_")
     implementation("de.treichels.hott:hott-model:_")
 }
 
