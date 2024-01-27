@@ -20,7 +20,7 @@ repositories {
 }
 
 dependencies {
-    api("de.treichels.hott:hott-model:_")
+    implementation("de.treichels.hott:hott-model:_")
 }
 
 semver {
